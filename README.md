@@ -100,3 +100,4 @@ Pushing to the `main` branch automatically triggers the `.github/workflows/deplo
 1. Installs dependencies.
 2. Compiles assets to the `/dist` directory.
 3. Deploys contents directly to GitHub Pages hosting.
+.
