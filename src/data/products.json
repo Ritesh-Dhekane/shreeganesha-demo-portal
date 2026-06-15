@@ -1,0 +1,146 @@
+[
+  {
+    "id": "p1",
+    "name": "Kundan Bridal Choker Set",
+    "description": "An exquisite Kundan choker necklace set adorned with premium red beads, green drop stones, and matching royal jhumka earrings. Crafted to perfection for brides and grand festive occasions, this imitation set mirrors the grandeur of real gold kundan work.",
+    "price": 4499,
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "category": "Necklaces",
+    "tags": ["featured", "best-seller"],
+    "features": [
+      "22k gold-plated brass base for realistic sheen",
+      "Handcrafted premium Kundan stone settings",
+      "Adjustable dori (thread clasp) for comfort fit",
+      "Includes 1 choker necklace and 1 pair of matching earrings",
+      "Anti-tarnish protective coating"
+    ]
+  },
+  {
+    "id": "p2",
+    "name": "Temple Gold-Plated Haram Necklace",
+    "description": "A traditional South Indian temple jewellery long haram necklace. Featuring highly detailed carvings of Goddess Lakshmi seated on a lotus motif, embellished with small freshwater pearls and ruby-coloured stones. It offers a majestic heritage look.",
+    "price": 3299,
+    "images": [
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80"
+    ],
+    "category": "Necklaces",
+    "tags": ["new-arrival"],
+    "features": [
+      "Antique matte gold finish",
+      "Detailed temple motifs of Goddess Lakshmi",
+      "Long necklace structure (~24 inches)",
+      "Premium quality synthetic rubies and real seed pearls",
+      "Lead-free and nickel-free skin friendly alloy"
+    ]
+  },
+  {
+    "id": "p3",
+    "name": "Royal Meenakari Jhumka Earrings",
+    "description": "These stunning hand-painted Meenakari dome jhumka earrings feature delicate floral patterns, gold plating, and cluster seed pearl drops. The vibrant enamel paint complements traditional outfits beautifully and adds an ethnic charm.",
+    "price": 1299,
+    "images": [
+      "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80"
+    ],
+    "category": "Earrings",
+    "tags": ["featured", "best-seller"],
+    "features": [
+      "Intricate hand-painted Meenakari enamel work",
+      "Classic bell-shaped dome jhumka design",
+      "Gold-plated alloy with push-back lock",
+      "Lightweight for all-day wear",
+      "Ideal for weddings, festivals, and ethnic parties"
+    ]
+  },
+  {
+    "id": "p4",
+    "name": "Cubic Zirconia Drop Studs",
+    "description": "Elegant and classic drop studs with brilliant-cut AAA cubic zirconia stones set in a high-grade silver-plated brass structure. These studs reflect light beautifully, offering the sparkle of real diamonds at an affordable price.",
+    "price": 899,
+    "images": [
+      "https://images.unsplash.com/photo-1635767798638-3e25273a8236?auto=format&fit=crop&w=800&q=80"
+    ],
+    "category": "Earrings",
+    "tags": ["new-arrival"],
+    "features": [
+      "AAA grade Cubic Zirconia stones for maximum fire",
+      "High polish rhodium-plated copper alloy base",
+      "Secure post back with comfort rubber clutch",
+      "Dimensions: 1.2 cm x 1.2 cm",
+      "Matches both western and ethnic wear"
+    ]
+  },
+  {
+    "id": "p5",
+    "name": "Antique Gold Kada Bangles",
+    "description": "A set of 2 broad antique Kada bangles detailing traditional floral carvings, rope borders, and a secure screw opening. This set mimics antique family heirloom jewellery, pairing beautifully with silk sarees and heavy lehengas.",
+    "price": 1899,
+    "images": [
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "category": "Bangles",
+    "tags": ["featured"],
+    "features": [
+      "Antique gold finish with dark oxidation accents",
+      "Broad width (1.5 cm) for a majestic wrist presence",
+      "Convenient screw lock mechanism for easy wear",
+      "Includes 2 Kada bangles",
+      "Available in sizes 2.4, 2.6, and 2.8"
+    ]
+  },
+  {
+    "id": "p6",
+    "name": "American Diamond Tennis Bracelet",
+    "description": "A sleek, contemporary, and sparkling tennis bracelet crafted with high-grade round-cut American Diamonds (CZ) set in a flexible single-row silver-plated band. An ultra-premium design that exudes sophistication.",
+    "price": 1499,
+    "images": [
+      "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "category": "Bangles",
+    "tags": ["best-seller"],
+    "features": [
+      "Individually claw-set high-grade CZ diamonds",
+      "Flexible link structure that wraps smoothly around the wrist",
+      "Double-safety clasp closure",
+      "Hypoallergenic rhodium finish",
+      "Length: 7.2 inches (fits standard wrist sizes)"
+    ]
+  },
+  {
+    "id": "p7",
+    "name": "Statement Kundan Floral Ring",
+    "description": "An adjustable oversized statement ring in a floral arrangement, centered with a stunning ruby-coloured synthetic stone and surrounded by meticulously placed Kundan stones. Add immediate elegance to your fingers.",
+    "price": 799,
+    "images": [
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "category": "Rings",
+    "tags": ["featured", "new-arrival"],
+    "features": [
+      "Oversized floral pattern (~3 cm diameter)",
+      "Fully adjustable open-back band, fits all ring sizes",
+      "Gold-plated alloy with protective lacquer sealer",
+      "Combination of glass Kundan and red crystal center",
+      "Adds royal charm to henna-decorated hands"
+    ]
+  },
+  {
+    "id": "p8",
+    "name": "Classic Solitaire CZ Gold Ring",
+    "description": "A timeless solitaire ring featuring a brilliant 2-carat equivalent round-cut cubic zirconia diamond, set in an elegant 6-prong gold-plated band. Perfect for engagement concepts, anniversary gifts, or elegant everyday wear.",
+    "price": 999,
+    "images": [
+      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "category": "Rings",
+    "tags": ["best-seller"],
+    "features": [
+      "2.0 Carat size brilliant-cut AAA cubic zirconia",
+      "Classic 6-prong crown setting for maximum light entrance",
+      "18k yellow gold plated sterling silver base",
+      "Comfort-fit inner band edge",
+      "Resistant to scratching and daily wear"
+    ]
+  }
+]

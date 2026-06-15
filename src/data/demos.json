@@ -1,0 +1,16 @@
+[
+  {
+    "id": "demo-001",
+    "title": "Initial Jewellery Store Concept",
+    "createdAt": "2026-06-15",
+    "status": "under-review",
+    "features": [
+      "Luxury Home Page with Hero Banner & Structured Sections",
+      "Responsive Product Grid & Categorized Listings",
+      "Dynamic Product Details Page with Interactive Actions",
+      "LocalStorage-Persistent Cart Management (Add, Remove, Adjust Quantity)",
+      "Checkout Validation Form",
+      "WhatsApp Checkout Integration generating formatted customer order text"
+    ]
+  }
+]
